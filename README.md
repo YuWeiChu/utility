@@ -3,4 +3,4 @@
 
 2. [PhotoShop](https://drive.google.com/file/d/1B469taas3KJsumnWtWzE-kXyCEc6OIXr/view?usp=sharing)
 
-3. [Meetin](https://hackmd.io/r85xvQpiTaWiHuVqFyMZ0w)
+3. [Meeting](https://hackmd.io/r85xvQpiTaWiHuVqFyMZ0w)
