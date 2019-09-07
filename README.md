@@ -4,6 +4,3 @@
 2. [PhotoShop](https://drive.google.com/file/d/1B469taas3KJsumnWtWzE-kXyCEc6OIXr/view?usp=sharing)
 
 3. [Meeting](https://hackmd.io/r85xvQpiTaWiHuVqFyMZ0w)
-
-
-4. https://github.com/Ending2015a/Unity-segmentation-shader?fbclid=IwAR1-Q9RhXWdcGAvRawPt0lNRErUZfHdv4xv0kfCARoP4uPsH3Aj9FuVJvg0
